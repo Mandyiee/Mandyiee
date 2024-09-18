@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Mandyiee
-- 👀 I’m interested in creative python and javascript projects
-- 🌱 I’m currently learning advanced python
-- 💞️ I’m looking to collaborate on python and javascript projects
+- 👀 I’m interested in creative projects
 - 📫 How to reach me okonkwomandy101@gmail.com 
 
 <!---
